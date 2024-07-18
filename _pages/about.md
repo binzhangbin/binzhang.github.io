@@ -33,13 +33,7 @@ redirect_from:
 <p>发表论文：《Motion Enhanced Model Based on High-Level Spatial Features》 SCI三区 四作</p>
 
 **2022年9月-至今 就读于中国海洋大学攻读博士学位**
-参与项目：缺血性脑卒中全程化管理智能决策关键技术的研究与应用、国家重点研发计划-数据驱动的家电产品精益拆解与循环协同
-发表论文：《An automated multi-layer perceptron discriminative neural network based on Bayesian optimization achieves high-precision one-source single-snapshot direction-of-arrival estimation》 SCI二区 一作
-发表论文：《Phase space reconstruction and self-attention convolutional neural network for sound source ranging with trial data》 SCI一区 二作
-发表论文：《Effective underwater acoustic target passive localization of using a multi-task learning model with attention mechanism: Analysis and comparison under real sea trial datasets》 SCI二区 二作
-
-
-
-Mr. Zhang's Growth Diary
-======
-<p>A doctoral student who loves life, gourmet food, and scenery. It is said that a tailor who doesn't aspire to be a chef is not a good general. Mr. Zhang's goal is to become an academician or find a wife who can support each other through thick and thin and live in harmony, haha!</p>
+<p>参与项目：缺血性脑卒中全程化管理智能决策关键技术的研究与应用、国家重点研发计划-数据驱动的家电产品精益拆解与循环协同</p>
+<p>发表论文：《An automated multi-layer perceptron discriminative neural network based on Bayesian optimization achieves high-precision one-source single-snapshot direction-of-arrival estimation》 SCI二区 一作</p>
+<p>发表论文：《Phase space reconstruction and self-attention convolutional neural network for sound source ranging with trial data》 SCI一区 二作</p>
+<p>发表论文：《Effective underwater acoustic target passive localization of using a multi-task learning model with attention mechanism: Analysis and comparison under real sea trial datasets》 SCI二区 二作</p>
