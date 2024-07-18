@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/250d6fe1-5c59-46cc-8914-4d13306a6521)![image](https://github.com/user-attachments/assets/3223acbd-9c94-4a36-9471-bf2b7198acbd)---
 permalink: /
-title: "小张同志的成长日记"
+title: "小张同志的学习成长日记"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,16 +11,16 @@ redirect_from:
 
 教育经历
 ======
-2015年9月-2019年7月 就读于内蒙古农业大学攻读本科学位
-2016年4月 获ACM校赛三等奖
+**2015年9月-2019年7月 就读于内蒙古农业大学攻读本科学位**
+<p>2016年4月 获ACM校赛三等奖
 2017年3月 获中国高校计算机团体程序设计天梯赛内蒙古自治区省赛成功参赛奖
 2017年 获数学建模校赛三等奖
 2017年4月 获校级三好学生荣誉称号
 2017年5月 获ACM内蒙古自治区省赛二等奖
 2017年6月 获内蒙古自治区级三号学生荣誉称号 
-2019年6月 获校级本科优秀毕业生荣誉称号
+2019年6月 获校级本科优秀毕业生荣誉称号</p>
 
-2015年9月-2019年7月 就读于内蒙古大学攻读硕士学位
+**2015年9月-2019年7月 就读于内蒙古大学攻读硕士学位**
 2019年~2021年 连续三年获内蒙古自治区级研究生学业奖学金
 2021年6月 获内蒙古大学校级三好学生荣誉称号
 2021年6月 获软著一项、第十二届挑战杯省赛一等奖
@@ -32,7 +32,7 @@ CCF认证排名Top14.31%
 发表论文：《A Novel Attention-Based Network for Fast Salient Object Detection》 EI 一作
 发表论文：《Motion Enhanced Model Based on High-Level Spatial Features》 SCI三区 四作
 
-2022年9月-至今 就读于中国海洋大学攻读博士学位
+**2022年9月-至今 就读于中国海洋大学攻读博士学位**
 参与项目：缺血性脑卒中全程化管理智能决策关键技术的研究与应用、国家重点研发计划-数据驱动的家电产品精益拆解与循环协同
 发表论文：《An automated multi-layer perceptron discriminative neural network based on Bayesian optimization achieves high-precision one-source single-snapshot direction-of-arrival estimation》 SCI二区 一作
 发表论文：《Phase space reconstruction and self-attention convolutional neural network for sound source ranging with trial data》 SCI一区 二作
