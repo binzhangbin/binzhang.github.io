@@ -37,3 +37,7 @@ redirect_from:
 <p style="text-align: justify;">发表论文：《An automated multi-layer perceptron discriminative neural network based on Bayesian optimization achieves high-precision one-source single-snapshot direction-of-arrival estimation》 SCI二区 一作</p>
 <p style="text-align: justify;">发表论文：《Phase space reconstruction and self-attention convolutional neural network for sound source ranging with trial data》 SCI一区 二作</p>
 <p style="text-align: justify;">发表论文：《Effective underwater acoustic target passive localization of using a multi-task learning model with attention mechanism: Analysis and comparison under real sea trial datasets》 SCI二区 二作</p>
+<p style="text-align: justify;">发表论文：《DSRMS-TRANSUNET: A DECENTRALIZED NON-SHIFTED TRANSUNET FOR SHALLOW WATER ACOUSTIC SOURCE RANGE ESTIMATION》 CCFB 一作</p>
+<p style="text-align: justify;">发表论文：《Deep Covariance Denoising and Attention-Guided On-Grid Classification: A Dual-Stage Network for Robust Underwater DOA Estimation》 CCFC 一作</p>
+<p style="text-align: justify;">发表论文：《Bilateral Residual Self-Attention Recurrent Neural Network with Soft Thresholding for Sound Event Localization on Microphone Arrays》 EI 一作</p>
+<p style="text-align: justify;">发表论文：《Diff-AgentDOA Diffusion-agent Model for Synthetic Data Generation in Shallow-water Target Direction of Arrival Estimations》 SCI一区 二作</p>
